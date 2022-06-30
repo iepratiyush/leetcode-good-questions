@@ -6,3 +6,4 @@ Here I will keep on adding the links of good leetcode questions
 3. https://leetcode.com/problems/queue-reconstruction-by-height/ [MEDIUM] [ARRAY]
 4. https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/ [MEDIUM] [ARRAY]
 5. https://leetcode.com/problems/first-bad-version/ [EASY] [BINARY-SEARCH]
+6. https://leetcode.com/problems/validate-binary-search-tree/ [EASY] [BINARY-TREE]
