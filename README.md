@@ -5,3 +5,4 @@ Here I will keep on adding the links of good leetcode questions
 2. https://leetcode.com/problems/non-decreasing-array/ [MEDIUM] [ARRAY]
 3. https://leetcode.com/problems/queue-reconstruction-by-height/ [MEDIUM] [ARRAY]
 4. https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/ [MEDIUM] [ARRAY]
+5. https://leetcode.com/problems/first-bad-version/ [EASY] [BINARY-SEARCH]
