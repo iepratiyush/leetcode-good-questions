@@ -8,3 +8,4 @@ Here I will keep on adding the links of good leetcode questions
 5. https://leetcode.com/problems/first-bad-version/ [EASY] [BINARY-SEARCH]
 6. https://leetcode.com/problems/validate-binary-search-tree/ [EASY] [BINARY-TREE]
 7. https://leetcode.com/problems/longest-repeating-character-replacement/ [MEDIUM] [WINDOW]
+8. https://leetcode.com/problems/find-all-anagrams-in-a-string/ [MEDIUM] [WINDOW]
