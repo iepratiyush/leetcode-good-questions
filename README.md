@@ -10,3 +10,4 @@ Here I will keep on adding the links of good leetcode questions
 7. https://leetcode.com/problems/longest-repeating-character-replacement/ [MEDIUM] [WINDOW]
 8. https://leetcode.com/problems/find-all-anagrams-in-a-string/ [MEDIUM] [WINDOW]
 9. https://leetcode.com/problems/decode-string/ [MEDIUM] [STACK]
+10. https://leetcode.com/problems/min-cost-climbing-stairs/ [EASY] [DP]
