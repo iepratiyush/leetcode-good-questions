@@ -13,3 +13,4 @@ Here I will keep on adding the links of good leetcode questions
 10. https://leetcode.com/problems/min-cost-climbing-stairs/ [EASY] [DP]
 11. https://leetcode.com/problems/interleaving-string/ [MEDIUM] [DP]
 12. https://leetcode.com/problems/last-stone-weight/ [EASY] [HEAP]
+13. https://leetcode.com/problems/top-k-frequent-words/ [MEDIUM] [HEAP]
