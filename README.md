@@ -14,4 +14,5 @@ Here I will keep on adding the links of good leetcode questions
 11. https://leetcode.com/problems/interleaving-string/ [MEDIUM] [DP]
 12. https://leetcode.com/problems/last-stone-weight/ [EASY] [HEAP]
 13. https://leetcode.com/problems/top-k-frequent-words/ [MEDIUM] [HEAP]
-14. https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ [MEDIUM] [BINARY-TREE]
+14. https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ [MEDIUM] [BINARY-TREE]\
+15. https://leetcode.com/problems/happy-number/ [EASY] [SET]
