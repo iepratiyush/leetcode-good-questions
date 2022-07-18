@@ -16,3 +16,5 @@ Here I will keep on adding the links of good leetcode questions
 13. https://leetcode.com/problems/top-k-frequent-words/ [MEDIUM] [HEAP]
 14. https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ [MEDIUM] [BINARY-TREE]\
 15. https://leetcode.com/problems/happy-number/ [EASY] [SET]
+16. https://leetcode.com/problems/subarray-sum-equals-k/ [MEDIUM] [ARRAY]
+17. https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/ [HARD] [ARRAY]
