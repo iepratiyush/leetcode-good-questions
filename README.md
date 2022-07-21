@@ -19,3 +19,4 @@ Here I will keep on adding the links of good leetcode questions
 16. https://leetcode.com/problems/subarray-sum-equals-k/ [MEDIUM] [ARRAY]
 17. https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/ [HARD] [ARRAY]
 18. https://leetcode.com/problems/number-of-matching-subsequences/ [MEDIUM] [LINKEDLIST]
+19. https://leetcode.com/problems/reverse-linked-list-ii/ [MEDIUM] [LINKEDLIST]
