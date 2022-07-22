@@ -20,3 +20,4 @@ Here I will keep on adding the links of good leetcode questions
 17. https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/ [HARD] [ARRAY]
 18. https://leetcode.com/problems/number-of-matching-subsequences/ [MEDIUM] [LINKEDLIST]
 19. https://leetcode.com/problems/reverse-linked-list-ii/ [MEDIUM] [LINKEDLIST]
+20. https://leetcode.com/problems/partition-list/ [MEDIUM] [LINKEDLIST]
