@@ -26,4 +26,5 @@ Here I will keep on adding the links of good leetcode questions
 23. https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ [MEDIUM] [BINARY-TREE]
 24. https://leetcode.com/problems/word-subsets/ [MEDIUM] [STRING MAP]
 25. https://leetcode.com/problems/range-sum-query-mutable/ [MEDIUM] [SEGMENT TREE]
-26. https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ [MEDIUM][MATRIX][TO-DO]
+26. https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ [MEDIUM][MATRIX]
+27. https://leetcode.com/problems/count-vowels-permutation/ [HARD][MAP][DP]
