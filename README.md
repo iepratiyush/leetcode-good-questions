@@ -28,3 +28,7 @@ Here I will keep on adding the links of good leetcode questions
 25. https://leetcode.com/problems/range-sum-query-mutable/ [MEDIUM] [SEGMENT TREE]
 26. https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ [MEDIUM][MATRIX]
 27. https://leetcode.com/problems/count-vowels-permutation/ [HARD][MAP][DP]
+28. https://leetcode.com/problems/construct-string-from-binary-tree/ [EASY] [TREE]
+29. https://leetcode.com/problems/n-ary-tree-level-order-traversal/ [MEDIUM] [TREE]
+30. https://leetcode.com/problems/average-of-levels-in-binary-tree/ [MEDIUM] [TREE]
+31. https://leetcode.com/problems/binary-tree-pruning/ [MEDIUM] [TREE]
