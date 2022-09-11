@@ -38,3 +38,4 @@ Here I will keep on adding the links of good leetcode questions
 35. https://leetcode.com/problems/longest-substring-without-repeating-characters/ [MEDIUM] [STRING]
 36. https://leetcode.com/problems/evaluate-reverse-polish-notation/ [MEDIUM] [STACK]
 37. https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/ [MEDIUM] [ARRAY]
+38. https://leetcode.com/problems/maximum-performance-of-a-team/ [HARD][PRIORITY QUEUE]
