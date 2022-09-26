@@ -41,3 +41,4 @@ Here I will keep on adding the links of good leetcode questions
 38. https://leetcode.com/problems/maximum-performance-of-a-team/ [HARD][PRIORITY QUEUE]
 39. https://leetcode.com/problems/bag-of-tokens/ [MEDIUM] [PRIORITY-QUEUE] [GREEDY]
 40. https://leetcode.com/problems/design-circular-queue/ [MEDIUM] [QUEUE]
+41. https://leetcode.com/problems/satisfiability-of-equality-equations/submissions/ [UNION FIND]
