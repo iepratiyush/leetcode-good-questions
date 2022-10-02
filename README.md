@@ -43,3 +43,4 @@ Here I will keep on adding the links of good leetcode questions
 40. https://leetcode.com/problems/design-circular-queue/ [MEDIUM] [QUEUE]
 41. https://leetcode.com/problems/satisfiability-of-equality-equations/submissions/ [UNION FIND]
 42. https://leetcode.com/problems/decode-ways/ [MEDIUM] [DP]
+43. https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/ [MEDIUM] [DP]
