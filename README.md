@@ -44,3 +44,4 @@ Here I will keep on adding the links of good leetcode questions
 41. https://leetcode.com/problems/satisfiability-of-equality-equations/submissions/ [UNION FIND]
 42. https://leetcode.com/problems/decode-ways/ [MEDIUM] [DP]
 43. https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/ [MEDIUM] [DP]
+44. https://leetcode.com/problems/minimum-time-to-make-rope-colorful/ [MEDIUM] [ARRAY]
